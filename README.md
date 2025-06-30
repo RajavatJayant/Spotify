@@ -1,0 +1,1 @@
+A frontend clone of the Spotify web player built using HTML, CSS, and JavaScript. This project was created as part of my learning journey in frontend web development. It replicates the layout and basic interactivity of Spotify’s interface.
